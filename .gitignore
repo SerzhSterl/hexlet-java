@@ -3,3 +3,7 @@
 .idea/
 *.iml
 *.iws
+
+# OtherFiles
+commons-lang3-3.12.0.jar
+commons-lang3-3.12.0.jar:Zone.Identifier
